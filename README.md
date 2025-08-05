@@ -14,6 +14,8 @@ Welcome to my personal portfolio! I'm an undergraduate student pursuing a degree
 
 **What You'll Find Here**  
 Explore my projects, from dynamic forms and database-driven platforms to polished layouts and well-documented code. Each piece reflects my commitment to practical engineering, clean architecture, and problem-solving.
+**Live deployed site on render**
+https://fadhili-portfolio.onrender.com
 
 **Get In Touch**  
 Have questions, feedback, or collaboration ideas? Feel free to connect!
