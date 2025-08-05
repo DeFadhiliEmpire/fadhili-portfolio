@@ -1,5 +1,5 @@
 # fadhili-portfolio
-Created with CodeSandbox
+
 Moses Fadhili — Developer Portfolio
 
 Welcome to my personal portfolio! I'm an undergraduate student pursuing a degree in Mathematics and Computer Science at Kirinyaga University. With a strong foundation in backend development, secure coding, and API integration, I build scalable web applications that blend performance with thoughtful design.
